@@ -1,0 +1,19 @@
+
+
+.conteudodireita{
+ 
+ margin-left: 40%;
+ background-color: #fafafb;
+ width: 117vh;
+ height: 100vh;
+ margin-top: -100vh;
+ align-content: center;
+ justify-items: center;
+ align-items: center;
+ justify-content: center
+ 
+}
+
+.imagemlogin img{
+   margin-left: 280px;
+}

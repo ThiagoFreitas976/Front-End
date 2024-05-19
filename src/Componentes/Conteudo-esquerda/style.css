@@ -1,0 +1,102 @@
+@font-face {
+    font-family: urbanist;
+    src: url(../../../public/Fontes/Urbanist-Regular.ttf);
+}
+*{
+    font-family: urbanist;
+}
+.logo{
+    margin-top: 50px;
+    margin-left: 80px;
+    
+}
+
+.informations{
+    
+    margin-left: 190px;
+    margin-top: 130px;
+
+}
+
+.informations h3{
+    
+   
+    margin: 0px;
+
+}
+
+.forgotpassword{
+    margin-left: 230px;
+    margin-top: -52px;
+}
+
+.forgotpassword h5{
+    font-size: 14px;
+}
+
+.inputsenha input{
+    width: 345px;
+    height: 56px;
+    
+}
+
+.inputemail input{
+    width: 345px;
+    height: 56px;
+    
+}
+
+input{
+    margin-top: 25px;
+    font-size: 16px;
+}   
+
+button{
+    margin-top: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.botaologin button{
+    border: none;
+    background-color: #ffc727;
+    color: white;
+    width: 121px;
+    height: 43px;
+    text-align: left;
+    border-radius: 4px;
+    box-shadow: 20px 20px 60px #aaaaaa, -20px -20px 60px #ffffff
+    
+}
+.botaologin img{
+    position: absolute;
+    margin-left: -40px;
+    margin-top: 30px;
+    
+}
+
+.createnewaccount{
+    margin-left: 0px;
+   
+}
+
+.createnewaccount button{
+    width: 352px;
+    height: 42px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffc727;
+        color: white;
+    box-shadow: 20px 20px 60px #aaaaaa, -20px -20px 60px #ffffff
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+
+.direitos{
+    margin-top: 300px;
+}
